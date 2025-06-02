@@ -1,6 +1,6 @@
-John Doe
+Suman Jeet
 Software Engineer
-john.doe@email.com | (555) 123-4567
+suman007@email.com | (555) 123-4567
 
 EXPERIENCE
 Software Developer at TechCorp (2022-2024)
